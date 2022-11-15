@@ -1,0 +1,8 @@
+subject {
+  background: rgb(255, 127, 227);
+  display: block;
+  line-height: 2;
+}
+p {
+  background: goldenrod;
+}
